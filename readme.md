@@ -13,19 +13,19 @@ This plot showcases the relationship between four key variables:
 - Total Number of Drivers Per City
 - City Type (Urban, Suburban, Rural)
 
-# Breakdown by City Type with Pie Charts
+# Breakdown by City Type
 
 ![Ride](Images/pie_fares_by_type.png)
 
-
+% of Total Fares by City Type
 
 ![Ride](Images/pie_rides_by_type.png)
 
-  
+% of Total Rides by City Type
 
 ![Ride](Images/pie_drivers_by_type.png)
 
-     
+% of Total Drivers by City Type
 
 
 
