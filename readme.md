@@ -10,7 +10,7 @@ This plot showcases the relationship between four key variables:
 
 - Average Fare ($) Per City
 - Total Number of Rides Per City
-- Total Number of Drivers Per City
+- Total Number of Drivers Per City (Shown In the buble sizes)
 - City Type (Urban, Suburban, Rural)
 
 # Breakdown by City Type
