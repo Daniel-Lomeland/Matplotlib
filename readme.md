@@ -17,15 +17,15 @@ This plot showcases the relationship between four key variables:
 
 ![Ride](Images/pie_fares_by_type.png)
 
-% of Total Fares by City Type
+     % of Total Fares by City Type
 
 ![Ride](Images/pie_rides_by_type.png)
 
-% of Total Rides by City Type
+     % of Total Rides by City Type
 
 ![Ride](Images/pie_drivers_by_type.png)
 
-% of Total Drivers by City Type
+     % of Total Drivers by City Type
 
 
 
