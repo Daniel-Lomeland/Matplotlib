@@ -1,8 +1,8 @@
-# Visualizing Rideshare Data
+## Visualizing Rideshare Data
 
 Using sample rideshare data this notebook uses Python Pandas to sort the data and Matplotlib to create insightful visualizations.
 
-# Bubble Plot
+### Bubble Plot
 
 ![Ride](Images/scatter_by_city_types.png)
 
@@ -13,7 +13,7 @@ This plot showcases the relationship between four key variables:
 - Total Number of Drivers Per City (Shown In the bubble sizes)
 - City Type (Urban, Suburban, Rural)
 
-# Breakdown by City Type
+### Breakdown by City Type
 
 ![Ride](Images/pie_fares_by_type.png)
 
