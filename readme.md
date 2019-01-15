@@ -1,6 +1,6 @@
-# Visulizing Ridshare Data
+# Visualizing Rideshare Data
 
-For this exercise I was working for a fictitious rideshare company. I was given the company's complete record set of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type. My job was to create insightful visualizations using Python Pandas and Matplotlib.
+Using sample rideshare data this notebook uses Python Pandas to sort the data and Matplotlib to create insightful visualizations.
 
 # Bubble Plot
 
@@ -10,7 +10,7 @@ This plot showcases the relationship between four key variables:
 
 - Average Fare ($) Per City
 - Total Number of Rides Per City
-- Total Number of Drivers Per City (Shown In the buble sizes)
+- Total Number of Drivers Per City (Shown In the bubble sizes)
 - City Type (Urban, Suburban, Rural)
 
 # Breakdown by City Type
